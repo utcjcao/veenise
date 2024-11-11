@@ -4,3 +4,7 @@ Sign,
 
 Chris Cao
 Vennise Ho
+
+
+edit: i've decided to stop trying to force projects down 
+because i'm not learning anything. i'm switching to the odin project instead
